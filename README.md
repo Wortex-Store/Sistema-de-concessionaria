@@ -1,6 +1,6 @@
 # Sistema de Concessionaria
 
-⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-concessionaria/wiki/Sistema-de-concessionaria) você pode consultar todas as informações sobre o sistema de id.
+⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-concessionaria/wiki/Sistema-de-concessionaria) você pode consultar todas as informações sobre o sistema de concessionaria.
 
 📲 **Contatos:**
 
